@@ -25,20 +25,20 @@ scipy
 
 # Time series analysis
 statsmodels
-fbprophet
+prophet
+pmdarima
 
 # Visualization
 plotly
 matplotlib
 seaborn
 ipython
+yellowbrick
 
 # Data imputation
 fancyimpute
-scikit-learn
 
 # Feature processing
-scikit-learn
 imbalanced-learn
 
 # Machine Learning models
@@ -47,10 +47,8 @@ lightgbm
 xgboost
 
 # Neural Networks
+keras
 tensorflow
 
 # Model evaluation
 scikit-learn
-
-# Other
-yellowbrick
