@@ -162,5 +162,7 @@ cython_debug/
 #.idea/
 /.env
 
+/Notebook/LP3_TSF.env
+
 # Large files
 # Data/train.csv 
